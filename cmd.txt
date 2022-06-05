@@ -1,0 +1,16 @@
+cd / - diretorio C:
+cd .. - voltar uma pasta
+dir - listar o que tem na pasta atual
+mkdir nome da pasta - criar pasta
+echo hello > nome do arquivo - criar arquivo
+del nome da pasta - deleta arq da pasta
+rmdir nome da pasta /S /Q  - deleta a pasta com os arq
+cls - limpar tela
+
+
+blob - apenas sha1 do arq
+tree - sha1 e nome do arq
+commit - juntar tudo (tree, parente, autor, mensagem)
+
+
+chave ssh - conexão segura entre dois computadores

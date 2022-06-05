@@ -1,0 +1,10 @@
+untracked - criando arquivo
+unmodified - sem alterações
+modified - com alterações
+staged - aguardando para entra em ação (quando der um commir no arq volta a ser unmodified)
+
+ambiente de desenvolvimento
+
+working directory
+staging area
+local repository
