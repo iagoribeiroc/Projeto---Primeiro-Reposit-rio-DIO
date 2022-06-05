@@ -1,3 +1,5 @@
+### Passo a passo do ciclo
+
 untracked - criando arquivo
 unmodified - sem alterações
 modified - com alterações

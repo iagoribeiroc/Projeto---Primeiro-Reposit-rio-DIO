@@ -1,3 +1,5 @@
+### Comandos usados dentro do bash
+
 cd / - diretorio C:
 cd .. - voltar uma pasta
 dir - listar o que tem na pasta atual
