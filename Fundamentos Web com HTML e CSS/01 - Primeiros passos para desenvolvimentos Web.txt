@@ -1,0 +1,434 @@
+**Termos úteis apresentados na aula**
+
+ 
+
+- Download/upload – carregar dados
+
+- Navegador – 
+
+- Banda larga – tipo de conexão
+
+- Cachê – coisas previamente salvas no PC
+
+- Crack – piratiar software
+
+- Email – correio eletrônico
+
+- Emoticons – figurinhas
+
+- Gif/Jpg/PNG – formatos de imagem
+
+- Host – servidor
+
+- HTML – linguagem de marcação
+
+- HTTP – protocolo internet
+
+- Ícone – imagem da marca
+
+- Link – ligação
+
+- Login/logon – acesso
+
+- Logout/logoff – desconecta
+
+- Mp3 – formato de música
+
+- Multimídia – permite executar diversos tipos de mídia
+
+- Nick – nome
+
+- Online/off-line – conectado e desconectado
+
+- Pixel – 
+
+- Spam – lixo eletrônico
+
+- URL – endereço do site
+
+- Virus – causar danos
+
+- Backup – cópia de segurança 
+
+- Blog – diário escrito
+
+- Keylogger – espécie de vírus
+
+- Cyberbullying – difamação 
+
+- Phishing – simular algo para roubar
+
+- 3G/4G/5G – velocidades da internet móvel
+
+- Cookies – registro de atividades que outros sites podem utilizar 
+
+- Firewall – impedir acesso indevido
+- Hacker – encontra falhas 
+
+- IP – endereço para reconhecer
+
+- Click Bait – link clicável
+
+- Fake News – notícias falsas
+
+- Podcast – programa de conversa
+
+- Vlog – diário em vídeo
+
+- Pop-up – caixas de diálogo em sites
+
+- Youtuber – produz conteúdo 
+
+ 
+
+**O que são redes?**
+
+ 
+
+- Backbone – Estruturas que gerenciam o trafego pela internet, que interligando outras backbones. 
+
+- Provedor de acesso – empresas que fornecem ao cliente final 
+
+- Provedor de serviço – dial-up (discada), adsl, fibra ótica, rádio, satélite, móvel, P2P
+
+ 
+
+ 
+
+**TCP/IP**
+
+ 
+
+- TCP – Transmission control protocol
+
+- IP – Internet Protocol
+
+ 
+
+Uma comunicação passa por 4 etapas antes de começar a transmissão:
+
+- Física (ex.: placa de rede)
+
+- Rede (ex.: IP)
+
+- Transporte (ex.: TCP, UDP)
+
+- Aplicação (ex.: FTP, SMTP, http)
+
+ 
+
+UDP x TCP
+
+ 
+
+- UDP – rápido, não confiável, livestream
+
+- TCP – voltado a conexão, handshake, integridade, ordem dos dados, app msg txt
+
+ 
+
+**Portas (ports)**
+
+ 
+
+As portas por onde os dados sairão e chegarão
+
+ 
+
+- 20: FTP
+
+- 22: SSH
+
+- 25: SMTP
+
+- 53: DNV
+
+- 80: http
+
+- 443: HTTPS
+
+ 
+
+**MODEM**
+
+ 
+
+**MO**dulator-**DEM**odulator - (Hardware que converte dados em um formato que possa ser transmitido de um computador para outro e lido por outro.
+
+ 
+
+**Roteador**
+
+ 
+
+Distribui internet para dispositivos, faz comunicação entre redes.
+
+ 
+
+**Switch**
+
+ 
+
+Distribui internet para dispositivos de forma inteligente.
+
+ 
+
+**Dados Móveis**
+
+ 
+
+- 1G (analógico): 10 kbps
+
+- 2G (digital) 97 kbps
+
+- GPRS / 2,5G: 32-80 kbps
+
+- EDGE: 2,75G 128-236 kbps
+
+- 3G: 7 Mbps / 4G: 22,1 Mbps / 5G: 10 Gbps
+
+ 
+
+**Wi-fi**
+
+ 
+
+- 802.11: 2,4 GHz, 2Mbps
+
+- 802.11a: 5 GHz, 54Mbps
+
+- 802.11b: 2,4 GHz, 11Mbps
+
+- 802.11g: 2,4 GHz, 54 Mbps
+
+- 802.11n: 2,4 GHz/5 GHz, 150 – 600 Mbps
+
+ 
+
+- WEP – chaves de 64 e 128 bits
+
+- WPA – chave trocada periodicamente
+
+- WPA2 (AES) (80211i) – mais segurança e requer mais processamento
+
+ 
+
+**Bluetooth**
+
+ 
+
+Conexão ponto-a-ponto
+
+ 
+
+- Classe 1 – 100mW – 100 metros
+
+- Classe 2 – 2,5mW – 10 metros
+
+- Classe 3 – 1mW – 1 metro
+
+ 
+
+Versões 
+
+ 
+
+- 1.2 – 1 Mbps
+
+- 2.0+EDR – 3 Mbps
+
+- 3.0 – 24 Mbps 
+
+- 4.0 – 25 Mbps
+
+- 5.0 – 50 Mbps
+
+ 
+
+**Browser**
+
+ 
+
+Identifica vários tipos de LP, marcação e multimídia. Existem plug-ins ou add-nos que ajudam. Cachê e cookies.
+
+Página estática – quase nenhuma interação, apenas te leva a outro site
+
+Página dinâmica – barras de rolagem, vídeos que correm, zoom, coisas independentes.
+
+ 
+
+**Sites**
+
+ 
+
+Página de internet, diversos propósitos, usadas diversas LP.
+
+ 
+
+**App**
+
+ 
+
+Software executado no navegador, app cellular.
+
+ 
+
+**Webserver**
+
+ 
+
+- Estático – servidos físico onde são armazenados arquivos, softwares e/ou banco de dados.
+
+- Dinâmico – O dinâmico se refere aos softwares que estão presentes no servidor físico.
+
+- Arquivos (file Server), Aplicações (application Server), Banco de dados (database).
+
+- WebService – Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis. (Governo, correios)
+
+ 
+
+**Stacks**
+
+ 
+
+Conjunto de softwares necessários e suficientes para executar um app/programa. LP. Ambientes e ferramentas de interação com o app/sw. Capacidade e limitação de performance. Pontos fortes e fracos do app/sw.
+
+ 
+
+**Front-end**
+
+ 
+
+Parte da frente, interface dos sites, software, app, WebService. Interface (UI, UX), Lógica de programação, HTML, CSS. Jquery/JS/AJAX, PHP, Bootstrap, outros frameworks.
+
+ 
+
+**Back-end**
+
+ 
+
+Parte de trás, servidores, banco de dados, entre interface e banco de dados, validações, MySQL, Oracle, protocolos de comunicação, PHP, Java, node.js
+
+ 
+
+**Fullstack**
+
+ 
+
+Profissional que trabalha em todas as camadas das tecnologias de desenvolvimento/execução.
+
+ 
+
+**Principais LPs**
+
+ 
+
+HTML, CSS, JavaScript (jQuery, AJAX, diversas libs), PHP, .NET, ASP, Java, Ruby, Python, Perl, C/C++/C#
+
+ 
+
+**Termos Comuns**
+
+ 
+
+- 404
+
+- Algoritmo
+
+- ALT
+
+- API
+
+- Aplicação
+
+- Back-end
+
+- Biblioteca/DLL
+
+- Bootstrap
+
+- Breakpoints
+
+- Browser/navegador
+
+- Bug
+
+- Cachê
+
+- Código
+
+- Controle de versão
+
+- Cookies
+
+- Debug
+
+- Deploy
+
+- Design adaptativo/responsivo
+
+- DNS
+
+- Documentação
+
+- Domínio
+
+- DPI
+
+- Editor de texto
+
+- Estrutura de dados
+
+- Favicon
+
+- Fontes
+
+- Framework
+
+- Front-end
+
+- FTP
+
+- Full-stack
+
+- GitHub/SVN/CVS
+
+- http
+
+- IP
+
+- Linguagem
+
+- Meta tags
+
+- Método ágil
+
+- Móbile
+
+- MVC
+
+- MVP
+
+- MySQL
+
+- Pixel
+
+- Resolução
+
+- Servidor
+
+- Sistema operacional/SO
+
+- Solução
+
+- SSL
+
+- UI
+
+- UX
+
+- Versão
+
+- WYSIWYG
+
+ 
