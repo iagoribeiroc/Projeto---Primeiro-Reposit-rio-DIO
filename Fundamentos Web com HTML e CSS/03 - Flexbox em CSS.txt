@@ -1,0 +1,123 @@
+**Flex container**: é a tag que envolve os itens “display: flex”. Transforma todos os seus itens filhos em flex itens.
+
+ 
+
+**1.** Display – inicializador do container
+
+ 
+
+**2.** Flex-direction – é a propriedade que estabelece o eixo principal do container, definindo a direção que os flex items são colocados no flex container.
+
+- Row(padrão): direção do texto, esquerda para direita.
+
+- Row reverse: sentido oposto à direção do texto. 
+
+- Column: ordenação de cima para baixo, coluna única. 
+
+- Column-reverse: de baixo para cima.
+
+ 
+
+**3.** Flex-wrap – é a propriedade que define se os itens devem ou não quebrar a linha.
+
+- Nowrap: é o padrão, não permite a quebra de linha;
+
+* Wrap: permite a quebra de linha assim que um dos flex itens não puder mais ser compactado.
+
+- Wrap-reverse: permite a quebra de linha, porém na direção contraria da linha, acima.
+
+ 
+
+**4.** Flex-flow – atalho para as propriedades flex-direction e flex-wrap, não é muito usado, pois quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é nowrap.
+
+ 
+
+**5.** Justify-content – se encarrega de alinhar os itens do container de acordo com a direção pretendida e tratar da distribuição de espaçamento entre eles. Obs.: caso os itens ocupem 100% do container, ela não se aplica.
+
+- Flex-start - início do container
+
+- Flex-end – final do container
+
+- Center – centro do container
+
+- Space-between – cria um espaçamento igual entre os elementos.
+
+- Space-around – os espaçamentos do meio são duas vezes maiores que o inicial e final.
+
+ 
+
+**6.** Align-items – trata do alinhamento dos flex itens de acordo com o eixo do container, é diferente para quando os itens estão em colunas ou linhas, permite o alinhamento na vertical.
+
+- Center – alinhamento dos itens ao centro
+
+- Stretch - padrão, e os flex itens cresçam igualmente para preencher o container
+
+- Flex-start – no início
+
+- Flex-end = no fim
+
+- Baseline – acordo com a linha base da tipografia dos itens
+
+ 
+
+ 
+
+**7.** Align-content – responsável por tratar o alinhamento das linhas do container em relação ao eixo vertical do container. 
+
+- Center – alinhamento dos itens ao centro
+
+- Stretch – padrão, flex itens crescem igualmente
+
+- Flex-start – início
+
+- Flex-end – final
+
+- Space-between – espaçamento igual entre os elementos
+
+- Space-around – espaços do meio são duas vezes maiores que o inicial e final.
+
+ 
+
+**Flex Item:** são os elementos filhos diretos do flex container
+
+ 
+
+**1.** Flex-grow – proporcionalidade de crescimento dos itens, respeitando o tamanho de seus conteúdos, não funciona caso use justify-content ao container.
+
+ 
+
+**2.** Flex-basis – estabelece tamanho inicial do item antes da distribuição de espaço restante dentro dele, usando como base o conteúdo interno disposto.
+
+- Auto – caso o item não tenha tamanho, este será proporcional ao conteúdo
+
+- Px, % ...: são valores mínimos exatos previamente definidos
+
+- 0 (zero): terá relação com a definição do flex-grow
+
+ 
+
+**3.** Flex-shrink – estabelecer a capacidade de redução ou compressão do tamanho de um item
+
+ 
+
+**4.** Flex – atalho ou abreviação de escrita para as propriedades: grow, shrink, basis.
+
+ 
+
+**5.** Order – ordem de distribuição, listagem
+
+ 
+
+**6.** Align-self – estabelece o alinhamento de modo individual sobre um determinado item
+
+- Auto – padrão, respeita a definição de align-items do container
+
+- Flex-start – início
+
+- Flex-end – fim
+
+- Center – centro de acordo com o eixo
+
+- Stretch – ocupa todo o espaço relativo
+
+- Baseline – utiliza a linha base da tipografia
